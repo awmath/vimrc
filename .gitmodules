@@ -22,9 +22,9 @@
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
-[submodule "bundle/vim-airline"]
-	path = bundle/vim-airline
-	url = https://github.com/vim-airline/vim-airline.git
-[submodule "/home/axel/.vim/bundle/vim-airline-themes"]
-	path = /home/axel/.vim/bundle/vim-airline-themes
-	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "bundle/vim-syntastic"]
+	path = bundle/vim-syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "bundle/vim-tagbar"]
+	path = bundle/vim-tagbar
+	url = https://github.com/majutsushi/tagbar
