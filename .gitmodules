@@ -37,3 +37,15 @@
 [submodule "bundle/vim-nerdtree"]
 	path = bundle/vim-nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-colors-monokai"]
+	path = bundle/vim-colors-monokai
+	url = https://github.com/sickill/vim-monokai.git
+[submodule "bundle/vim-dockerfile"]
+	path = bundle/vim-dockerfile
+	url = https://github.com/ekalinin/Dockerfile.vim.git
+[submodule "bundle/vim-colors-peaksea"]
+	path = bundle/vim-colors-peaksea
+	url = https://github.com/vim-scripts/peaksea.git
+[submodule "bundle/vim-nerd-commenter"]
+	path = bundle/vim-nerd-commenter
+	url = https://github.com/scrooloose/nerdcommenter.git
