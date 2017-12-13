@@ -2,9 +2,4 @@
 custom vim configuration
 
 # Installation
-clone this repository to your vim runtime directory
-`git clone --depth=1 https://github.com/awmath/vimrc.git ~/.vim`
-and add the following lines to your ~/.vimrc
-`execute pathogen#infect()
-syntax on
-filetype plugin indent on`
+curl -s https://raw.githubusercontent.com/awmath/vimrc/master/install_vim_custom.sh  | bash
