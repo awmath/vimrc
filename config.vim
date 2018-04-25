@@ -11,3 +11,11 @@ execute pathogen#infect()
 
 " Enable paste toggle
 set pastetoggle=<F2>
+
+" Always use spaces instead of tabs
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab
+
+" Enable numbering
+" :set number
